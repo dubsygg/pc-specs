@@ -9,7 +9,7 @@ CPU		Intel Core i7-9700K (8C/8T)		Intel Core i7-1185G7 (4C/8T)
 RAM		64GB (4x16GB) Crucial DDR4-2666		32GB (Soldered) Micron LPDDR4x-4266
 GPU		Dell OEM RTX 3060 Ti 8GB		ASUS Dual RTX 2060 6GB (via Thunderbolt 3; Cooler Master EG200 eGPU)
 SSD1		Samsung SSD980 NVMe 1TB (C:)		Samsung SSD980 NVMe 1TB (/)
-SSD2		Crucial P3 NVme 4TB (Games)		Toshiba MG04 4TB SATA
+SSD2		Crucial P3 NVme 4TB (Games)		Toshiba MG04 4TB SATA (VODs, Stream Sources, etc)
 ETH		RealTek RTL8111H			Intel AX201 / RealTek RTL8153
 PSU		EVGA Supernova 750W , 80+ Gold		54.7Wh Li-ion / 65W AC
 BOX		Silverstone Tek TJ08B-E			Lenovo OEM 20WLS1GH00
