@@ -3,7 +3,7 @@
 ```
 		Blackbox - Game PC			ThinkPop - Stream PC
 ============================================================================================================================
-OS		Windows 11 Pro				Pop!_OS 22.04 LTS
+OS		Windows 11 Pro				Pop!_OS 22.04 LTS (Linux)
 MOBO		ASUS Prime B365M-A			Lenovo ThinkPad X13i Gen2
 CPU		Intel Core i7-9700K (8C/8T)		Intel Core i7-1185G7 (4C/8T)
 RAM		64GB (4x16GB) Crucial DDR4-2666		32GB (Soldered) Micron LPDDR4x-4266
