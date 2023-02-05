@@ -3,7 +3,7 @@
 ```
 		Blackbox - Game PC			
 =============================================================
-OS		Kubuntu* 22.04 LTS (Linux)
+OS		Pop!_OS 22.04 LTS (Linux)
 MOBO		ASUS Prime B365M-A
 CPU		Intel Core i7-9700K (8C/8T)
 RAM		Crucial DDR4-2666 64GB (4x16GB)
@@ -23,5 +23,4 @@ Consoles	PS4 (Samsung 870 EVO 4TB), PS2 Slim, N64
 Capture		EVGA XR1 Lite, Hyperkin PS2/N64 HDTV Cables
 Display		(1x) Dell Ultrasharp 34 - U3421WE; (2x) Dell Professional 24 - P2419H/C
 
-* - Kubuntu modified with latest kernel, nvidia drivers, and other foundational packages from ppa:system76-dev/stable
 ```
