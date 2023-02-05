@@ -1,23 +1,23 @@
 ```
 dubsy@blackbox:~$ neofetch 
-           `.:/ossyyyysso/:.               dubsy@blackbox 
-        .:oyyyyyyyyyyyyyyyyyyo:`           -------------- 
-      -oyyyyyyyodMMyyyyyyyysyyyyo-         OS: Kubuntu 22.04.1 LTS x86_64 
-    -syyyyyyyyyydMMyoyyyydmMMyyyyys-       Kernel: 6.0.12-76060006-generic 
-   oyyysdMysyyyydMMMMMMMMMMMMMyyyyyyyo     Uptime: 3 hours, 19 mins 
- `oyyyydMMMMysyysoooooodMMMMyyyyyyyyyo`    Packages: 2349 (dpkg), 13 (snap) 
- oyyyyyydMMMMyyyyyyyyyyyysdMMysssssyyyo    Shell: bash 5.1.16 
--yyyyyyyydMysyyyyyyyyyyyyyysdMMMMMysyyy-   Resolution: 1920x1080, 1080x1920, 3440x1440 
-oyyyysoodMyyyyyyyyyyyyyyyyyyydMMMMysyyyo   DE: Plasma 5.24.7 
-yyysdMMMMMyyyyyyyyyyyyyyyyyyysosyyyyyyyy   WM: KWin 
-yyysdMMMMMyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy   Theme: [Plasma], Breeze [GTK2/3] 
-oyyyyysosdyyyyyyyyyyyyyyyyyyydMMMMysyyyo   Icons: [Plasma], breeze-dark [GTK2/3] 
--yyyyyyyydMysyyyyyyyyyyyyyysdMMMMMysyyy-   Terminal: konsole 
- oyyyyyydMMMysyyyyyyyyyyysdMMyoyyyoyyyo    CPU: Intel i7-9700K (8) @ 4.900GHz 
- `oyyyydMMMysyyyoooooodMMMMyoyyyyyyyyo     GPU: NVIDIA GeForce RTX 3060 Ti Lite Hash Rate 
-   oyyysyyoyyyysdMMMMMMMMMMMyyyyyyyyo      Memory: 5914MiB / 64248MiB 
-    -syyyyyyyyydMMMysyyydMMMysyyyys-
-      -oyyyyyyydMMyyyyyyysosyyyyo-                                 
-        ./oyyyyyyyyyyyyyyyyyyo/.                                   
-           `.:/oosyyyysso/:.`
+             /////////////                dubsy@blackbox 
+         /////////////////////            -------------- 
+      ///////*767////////////////         OS: Pop!_OS 22.04 LTS x86_64 
+    //////7676767676*//////////////       Kernel: 6.0.12-76060006-generic 
+   /////76767//7676767//////////////      Uptime: 20 hours, 8 mins 
+  /////767676///*76767///////////////     Packages: 2304 (dpkg), 7 (flatpak) 
+ ///////767676///76767.///7676*///////    Shell: bash 5.1.16 
+/////////767676//76767///767676////////   Resolution: 1920x1080, 1080x1920, 3440x1440 
+//////////76767676767////76767/////////   DE: GNOME 42.3.1 
+///////////76767676//////7676//////////   WM: Mutter 
+////////////,7676,///////767///////////   WM Theme: Pop 
+/////////////*7676///////76////////////   Theme: Pop-dark [GTK2/3] 
+///////////////7676////////////////////   Icons: Papirus-Dark [GTK2/3] 
+ ///////////////7676///767////////////    Terminal: gnome-terminal 
+  //////////////////////'////////////     CPU: Intel i7-9700K (8) @ 4.900GHz 
+   //////.7676767676767676767,//////      GPU: NVIDIA GeForce RTX 3060 Ti Lite Hash Rate 
+    /////767676767676767676767/////       Memory: 7237MiB / 64248MiB 
+      ///////////////////////////
+         /////////////////////                                    
+             /////////////                                        
 ```
